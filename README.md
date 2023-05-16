@@ -2,11 +2,13 @@
 
 To use the OpenAI API, you need to get your API key from here: https://platform.openai.com/account/api-keys
 
-Then, you need to create a file called api_keys.py in the same folder as your notebooks. The file should have the following content:
+Then, you need to create a file called `api_keys.py` in the same folder as your notebooks. The file should have the following content:
 
-API_KEY = 'sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+`API_KEY = 'sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'`
 
 Replace the x's with your actual API key. Do not share your API key with anyone else.
+
+---  
 
 # ChatGPT Prompt Engineering for Developers
 
@@ -41,7 +43,7 @@ The course is beginner-friendly. Only a basic understanding of Python is needed.
 
 The course is free for a limited time during the DeepLearning.AI learning platform beta. You can enroll here: https://learn.deeplearning.ai/
 
-## Another course reference
+# Another course reference
 
 I also used another course as a reference for learning prompt engineering. It is called Learn Prompting: Your Guide to Communicating with AI [^1^][2]. It is an open source curriculum that covers the basics of AI, machine learning, and prompt engineering. It also provides many examples and exercises for using ChatGPT and other AI tools for various tasks. Some of the topics include:
 
