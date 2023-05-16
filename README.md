@@ -1,3 +1,13 @@
+## How to use the OpenAI API
+
+To use the OpenAI API, you need to get your API key from here: https://platform.openai.com/account/api-keys
+
+Then, you need to create a file called api_keys.py in the same folder as your notebooks. The file should have the following content:
+
+API_KEY = 'sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+
+Replace the x's with your actual API key. Do not share your API key with anyone else.
+
 # ChatGPT Prompt Engineering for Developers
 
 This course teaches you how to use a large language model (LLM) to quickly build new and powerful applications using the OpenAI API. You will learn:
